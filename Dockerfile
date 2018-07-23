@@ -1,4 +1,4 @@
-FROM 172.21.0.24/hgq/golang:hgq
+FROM golang
 
 RUN useradd -r -s /bin/false helloworld
 
