@@ -7,4 +7,4 @@ RUN go install github.com/willejs/go-hello-world
 
 ENTRYPOINT /go/bin/go-hello-world
 
-EXPOSE 8484
+EXPOSE 8485
